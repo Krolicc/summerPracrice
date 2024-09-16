@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/8ec34167-1854-4624-9050-5eb39d52b26f)﻿# summerPracrice
 Привет! Чтобы приложение заработало:
 
 1. Скопировать все файлы к себе в рабочую папку.
