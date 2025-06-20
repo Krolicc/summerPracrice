@@ -15,3 +15,11 @@
 3. Попробовать отыскать их по ключевым фразам в названии картинки, описания или тегам.
 
 ![Desktop - 25](https://github.com/user-attachments/assets/7db66f8a-2aac-4080-acff-30ccda063b49)
+
+Дополнительно:
+ - Рабочие порты (localhost) :
+   1. 8080 - VueJS (Frontend)   
+   2. 8000 - OpenAPI (Backend)   
+   3. 5050 - PGAdmin (DataBase)   
+   4. 8081 - Mongo-express (DataBase)   
+   5. 5601 - Kibana (ElasticSearch)
